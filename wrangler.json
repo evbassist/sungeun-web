@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sungeun-web",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ecdd3ba7-813e-488d-b0c0-79de64a44ba2",
+			"database_name": "d1-sungeun-web"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
